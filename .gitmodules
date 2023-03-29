@@ -1,0 +1,3 @@
+[submodule "présentation/Nicolas/A-star-search"]
+	path = présentation/Nicolas/A-star-search
+	url = https://github.com/LogicJake/A-star-search.git

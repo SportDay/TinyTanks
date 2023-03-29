@@ -1,0 +1,53 @@
+#BackGround:
+# H : Herbe
+# S : Sable
+
+#ForeGround:
+#   : Supprimer
+# M : Mur
+# N : Mur cassable
+# B : Buisson vert
+# C : Buisson orange
+# T : Trou
+# J : Joueur
+# R : Bot
+# Z : Boss
+bg: |-
+  #########################
+  #HHHHHHHSSSSSSSSSHHHHHHH#
+  #HHHHHSSSSSSSSSSSSSHHHHH#
+  #HHHHSSSSSSSSSSSSSSSHHHH#
+  #HHHSSSSSHHHHHHHSSSSSHHH#
+  #HHHSSSSHHHHHHHHHSSSSHHH#
+  #HHHSSSSHHHHHHHHHSSSSHHH#
+  #HHHSSSSHHHHHHHHHSSSSHHH#
+  #HHSSSSHHHHHHHHHHHSSSSHH#
+  #HSSSSHHHHHHHHHHHHHSSSSH#
+  #HSSSHHHHHHHHHHHHHHHSSSH#
+  #HSSSHHHHHHHHHHHHHHHSSSH#
+  #HSSSHHHHHHSSSHHHHHHSSSH#
+  #HSSSSHHHHHSSSHHHHHSSSSH#
+  #HHSSSHHHHHSSSHHHHHSSSHH#
+  #HHHSSSHHHHHHHHHHHSSSHHH#
+  #HHHHSSSHHHHHHHHHSSSHHHH#
+  #########################
+fg: |-
+  #########################
+  #                       #
+  #         R   R         #
+  #                       #
+  #                       #
+  #MMMBBBBMMMMMMMMMBBBBMMM#
+  #MMMBBBBMMMMMMMMMBBBBMMM#
+  #                       #
+  #       BB     BB       #
+  #                       #
+  #        MMMMMMM        #
+  #       M       M       #
+  #       M       M       #
+  #       M   J   M       #
+  #                       #
+  # B                   B #
+  #                       #
+  #########################
+raid: false
