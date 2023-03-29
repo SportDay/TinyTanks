@@ -1,5 +1,9 @@
 # Tiny Tanks
 
+Projet de programmation L2 de l'Université de Paris 2021/2022
+
+
+
 ## Présentation rapide du jeu
 Tiny tanks est un jeu d’action en 2 dimensions où le but est de détruire les tanks ennemis.
 Notre jeu est une reprise du jeu original « Tiny Tanks »
